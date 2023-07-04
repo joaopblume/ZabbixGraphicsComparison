@@ -1,2 +1,2 @@
 # ZabbixGraphicsComparison
-Until Zabbix 4.4, its not possible to compare data between two time periods. A project to learn matplotlib basics.
+Until Zabbix 4.4, comparing data between two time periods is impossible. Well, it wasn't. A simple project to learn matplotlib basics.
